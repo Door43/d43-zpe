@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zpe:home|Door43 (zpe)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zpe|d43-zpe repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zpe/archive/master.zip|d43-zpe.zip]]
+
+**Recent Changes**
+{{changes>ns = zpe}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zpe|Ethnologue data]]
+
